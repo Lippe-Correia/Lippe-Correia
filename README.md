@@ -12,7 +12,7 @@ Sou apaixonado por tecnologia e tenho uma curiosidade constante para aprender ca
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Lippe-Correia?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/Lippe-Correia?color=55961c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
     <a href="https://github.com/Lippe-Correia?tab=followers">
